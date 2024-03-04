@@ -23,7 +23,7 @@
   },
   "main": "background.js",
   "dependencies": {
-    "axios": "^0.21.4",
+    "axios": "^0.28.0",
     "axios-retry": "^3.2.4",
     "base64-url": "^2.3.3",
     "better-sqlite3": "^7.5.0",
@@ -41,7 +41,7 @@
     "indent-string": "^4.0.0",
     "javascript-time-ago": "^2.0.8",
     "jquery": "^3.5.0",
-    "knex": "^1.0.3",
+    "knex": "^2.4.0",
     "lodash": "^4.17.21",
     "marked": "^4.0.10",
     "material-icons": "^0.7.6",
@@ -83,7 +83,7 @@
     "vuex": "^3.1.1",
     "vuex-persist": "^2.0.1",
     "xel": "beekeeper-studio/xel",
-    "xlsx": "^0.17.0",
+    "xlsx": "^0.18.5",
     "yargs-parser": "^20.2.7"
   },
   "devDependencies": {
@@ -114,7 +114,7 @@
     "@vue/test-utils": "^1.0.3",
     "aws-sdk": "^2.645.0",
     "babel-eslint": "^10.0.1",
-    "electron": "13.6.9",
+    "electron": "22.3.25",
     "electron-builder-notarize": "beekeeper-studio/electron-builder-notarize#master",
     "electron-devtools-installer": "^3.1.1",
     "electron-updater": "^4.6.5",
